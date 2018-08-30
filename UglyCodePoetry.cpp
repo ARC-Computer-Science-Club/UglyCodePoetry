@@ -1,9 +1,11 @@
 #include <iostream>
 void KirbyUCP();
+void dNguyenLOL();
 
 int main()
 {
   KirbyUCP();
+  dNguyenLOL();
 }
 
 void KirbyUCP()
@@ -17,4 +19,14 @@ void KirbyUCP()
     while(--_)
       __[_] -= *___;
   ;;;;;;;;;;;;std::cout << ((((__))));;;;;;;;;;;;;;;
+}
+
+void dNguyenLOL()
+{
+int _=1;char __[_--]={'='};int goodChoice=30;char pepperSoda[goodChoice];int hahaHiHi=0;
+std::cout<<"\n\n";
+while(hahaHiHi<30){pepperSoda[hahaHiHi]=__[_];hahaHiHi+=1;}
+hahaHiHi=1;while(hahaHiHi<=29){std::cout<<pepperSoda[hahaHiHi];hahaHiHi+=1;}
+std::cout<<"\n\nBe Patient!Great haste makes great waste!\n\n";
+while(hahaHiHi>1){std::cout<<pepperSoda[hahaHiHi];hahaHiHi-=1;}
 }
