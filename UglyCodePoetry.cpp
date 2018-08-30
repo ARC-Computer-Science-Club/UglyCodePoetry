@@ -1,6 +1,6 @@
 #include <iostream>
 void KirbyUCP();
-void devin()
+void devin();
 
 int main()
 {
