@@ -1,9 +1,16 @@
 #include <iostream>
+
+using namespace std;
+
 void KirbyUCP();
+void poem();
 
 int main()
 {
   KirbyUCP();
+  cout << endl;
+  poem();
+
 }
 
 void KirbyUCP()
@@ -17,4 +24,13 @@ void KirbyUCP()
     while(--_)
       __[_] -= *___;
   ;;;;;;;;;;;;std::cout << ((((__))));;;;;;;;;;;;;;;
+}
+void poem()
+{
+    int x = 50;
+    char _[x] = {"sleeping is for the weak >=) mmwwwahahahaha"};
+    for (int i =0; i < x; i++)
+    {
+        cout << _[i];
+    }
 }
