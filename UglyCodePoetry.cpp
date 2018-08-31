@@ -1,9 +1,11 @@
 #include <iostream>
 void KirbyUCP();
+void devin();
 
 int main()
 {
   KirbyUCP();
+  devin();
 }
 
 void KirbyUCP()
@@ -17,4 +19,26 @@ void KirbyUCP()
     while(--_)
       __[_] -= *___;
   ;;;;;;;;;;;;std::cout << ((((__))));;;;;;;;;;;;;;;
+}
+
+void devin()
+{
+    bool i = 12321;
+        std::cout << std::endl <<
+        "You"
+
+        << " want " /*why is this comme
+
+                    nt ex
+                isting? */
+                            << "good code,"
+                        << " you say" << std::
+                endl;
+    i +=2;
+    if (i <= 12323
+    )
+        {
+        std::cout
+            << "that will not happen today.";}
+
 }
