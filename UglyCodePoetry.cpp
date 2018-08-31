@@ -4,13 +4,15 @@ using namespace std;
 
 void KirbyUCP();
 void poem();
+void devin();
+
 
 int main()
 {
   KirbyUCP();
   cout << endl;
   poem();
-
+  devin();
 }
 
 void KirbyUCP()
@@ -25,6 +27,7 @@ void KirbyUCP()
       __[_] -= *___;
   ;;;;;;;;;;;;std::cout << ((((__))));;;;;;;;;;;;;;;
 }
+
 void poem()
 {
     int x = 50;
@@ -33,4 +36,25 @@ void poem()
     {
         cout << _[i];
     }
+}
+
+void devin()
+{
+    bool i = 12321;
+        std::cout << std::endl <<
+        "You"
+
+        << " want " /*why is this comme
+
+                    nt ex
+                isting? */
+                            << "good code,"
+                        << " you say" << std::
+                endl;
+    i +=2;
+    if (i <= 12323
+    )
+        {
+        std::cout
+            << "that will not happen today.";}
 }
