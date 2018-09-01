@@ -1,10 +1,17 @@
 #include <iostream>
+
+using namespace std;
+
 void KirbyUCP();
+void poem();
 void devin();
+
 
 int main()
 {
   KirbyUCP();
+  cout << endl;
+  poem();
   devin();
 }
 
@@ -19,6 +26,16 @@ void KirbyUCP()
     while(--_)
       __[_] -= *___;
   ;;;;;;;;;;;;std::cout << ((((__))));;;;;;;;;;;;;;;
+}
+
+void poem()
+{
+    int x = 50;
+    char _[x] = {"sleeping is for the weak >=) mmwwwahahahaha"};
+    for (int i =0; i < x; i++)
+    {
+        cout << _[i];
+    }
 }
 
 void devin()
@@ -40,5 +57,4 @@ void devin()
         {
         std::cout
             << "that will not happen today.";}
-
 }
