@@ -1,12 +1,20 @@
 #include <iostream>
+
+using namespace std;
+
 void KirbyUCP();
 void WillUCP();
+void poem();
+void devin();
 
 int main()
 {
   KirbyUCP();
   std::cout << std::endl;
   WillUCP();
+  cout << endl;
+  poem();
+  devin();
 }
 
 void KirbyUCP()
@@ -209,3 +217,34 @@ t<\
 %:undef ______
 %:undef _______ 
 %:undef ________
+
+void poem()
+{
+    int x = 50;
+    char _[x] = {"sleeping is for the weak >=) mmwwwahahahaha"};
+    for (int i =0; i < x; i++)
+    {
+        cout << _[i];
+    }
+}
+
+void devin()
+{
+    bool i = 12321;
+        std::cout << std::endl <<
+        "You"
+
+        << " want " /*why is this comme
+
+                    nt ex
+                isting? */
+                            << "good code,"
+                        << " you say" << std::
+                endl;
+    i +=2;
+    if (i <= 12323
+    )
+        {
+        std::cout
+            << "that will not happen today.";}
+}
